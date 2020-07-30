@@ -1,0 +1,16 @@
+{
+	"description": "Loja de Informática",
+	"name": "Computer-business",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Amarildo Aloizio de Souza",
+			"role": "Development"
+		}
+	],
+	"homepage": "https://Computer-business.com.br",
+	"require-dev": {
+		"twbs/bootstrap": "3.3.0",
+		"components/jquery": "1.11.1"
+	}
+}
