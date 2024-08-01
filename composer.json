@@ -10,7 +10,7 @@
 	],
 	"homepage": "https://Computer-business.com.br",
 	"require-dev": {
-		"twbs/bootstrap": "3.3.0",
+		"twbs/bootstrap": "5.0.0",
 		"components/jquery": "1.11.1"
 	}
 }
